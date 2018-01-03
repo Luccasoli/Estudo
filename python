@@ -1,0 +1,3 @@
+n = gets.to_i
+print "Ho " * (n-1)
+puts "Ho!"
